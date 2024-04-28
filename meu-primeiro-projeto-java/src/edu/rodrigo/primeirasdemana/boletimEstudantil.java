@@ -1,3 +1,4 @@
+package edu.rodrigo.primeirasdemana;
 public class boletimEstudantil {
 
 public static void main(String[] args){
