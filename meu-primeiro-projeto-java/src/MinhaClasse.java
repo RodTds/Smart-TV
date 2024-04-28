@@ -11,4 +11,4 @@ public class MinhaClasse {
         return "Nome Completo: " + primeiroNome.concat(" ").concat(segundoNome);
     }// fim da função somar 
 
-}// fim da minha classe geral
+}// fim da minha classe geral  
